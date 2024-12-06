@@ -31,4 +31,7 @@ export class ArtistComponent implements OnInit {
       }
     );
   }
+
+
+
 }
