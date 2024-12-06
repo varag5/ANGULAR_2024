@@ -1,0 +1,14 @@
+<table class="styled-table">
+  <thead>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let artist of artists">
+    <td>{{ artist.id }}</td>
+    <td>{{ artist.name }}</td>
+  </tr>
+  </tbody>
+</table>

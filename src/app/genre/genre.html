@@ -1,0 +1,14 @@
+<table class="styled-table">
+  <thead>
+  <tr>
+    <th>Genre ID</th>
+    <th>Genre Name</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let genre of genres">
+    <td>{{ genre.genreId }}</td>
+    <td>{{ genre.name }}</td>
+  </tr>
+  </tbody>
+</table>

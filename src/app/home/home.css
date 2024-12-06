@@ -1,0 +1,55 @@
+a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.home {
+  height: 100vh;
+  background: url('https://cdn.pixabay.com/photo/2018/12/21/20/17/instrument-3888684_1280.png') repeat;
+}
+
+.splash {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+}
+
+.intro {
+  padding-right: 15px;
+  padding-bottom: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.CTA {
+  width: 300px;
+  padding: 20px;
+  color: #28324E;
+  font-size: large;
+  font-family: 'Roboto', sans-serif;
+}
+
+.CTA:hover {
+  background-color: #28324E;
+  border-color: white;
+  color: white;
+}
+
+.splash h1 {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.splash p {
+  padding-top: 10px;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,22 @@
+<table class="styled-table">
+  <thead>
+  <tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Duration (sec)</th>
+    <th>Album</th>
+    <th>Artist</th>
+    <th>Genre</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let song of songs">
+    <td>{{ song.id }}</td>
+    <td>{{ song.songTitle }}</td>
+    <td>{{ song.duration }}</td>
+    <td>{{ song.album.title }}</td>
+    <td>{{ song.artist.name }}</td>
+    <td>{{ song.genre.name }}</td>
+  </tr>
+  </tbody>
+</table>
