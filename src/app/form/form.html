@@ -1,0 +1,8 @@
+<form [formGroup]="RemoveArtistForm" (ngSubmit)="onSubmit()">
+  <h3>Remove Artist</h3>
+  <div>
+    <label for="artistId">Artist ID</label>
+    <input id="artistId" type="text" formControlName="artistId" />
+  </div>
+  <button type="submit">Remove Artist</button>
+</form>
