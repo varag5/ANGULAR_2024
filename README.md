@@ -6,11 +6,12 @@
    - Open the project in your Java IDE (e.g., IntelliJ IDEA).
    - Navigate to `MusicLibraryApplication.java`.
    - Run the application by clicking the green triangle in the IDE.
-   - The backend can be accessed at [http://localhost:8080/](http://localhost:8080/).
+   - Accessable on: [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/).
 3. For the `ANGULAR-2024` frontend:
    - Navigate to the project folder.
    - Start the frontend development server using `ng serve`.
    - Open [http://localhost:4200/](http://localhost:4200/) in your browser to access the application.
+
 
 ## Main Components of the Project
 
@@ -63,4 +64,5 @@
 
 ---
 
+This project provides a simple and functional Music Library Application with a user-friendly interface and CRUD functionalities for managing music-related data.
 
