@@ -63,6 +63,3 @@
   - Remove an Artist by ID using the implemented service.
 
 ---
-
-This project provides a simple and functional Music Library Application with a user-friendly interface and CRUD functionalities for managing music-related data.
-
