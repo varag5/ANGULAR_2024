@@ -32,7 +32,7 @@
 - **Files**: HTML, CSS, TS.
 - **Service**: GET request.
 - **Displayed Data**:
-  - Song ID.
+  - ID.
   - Title.
   - Duration.
   - Album.
