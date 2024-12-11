@@ -8,7 +8,7 @@
    - Run the application by clicking the green triangle in the IDE.
    - Accessable on: [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/).
 3. For the `ANGULAR-2024` frontend:
-   - Navigate to the project folder.
+   - Open and navigate to the project folder.
    - Start the frontend development server using `ng serve`.
    - Open [http://localhost:4200/](http://localhost:4200/) in your browser to access the application.
 
