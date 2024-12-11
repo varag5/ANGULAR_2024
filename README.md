@@ -7,7 +7,7 @@
    - Navigate to `MusicLibraryApplication.java`.
    - Run the application by clicking the green triangle in the IDE.
    - Accessable on: [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/).
-   - github link: https://github.com/varag5/JAVA_2024
+   - Github link: https://github.com/varag5/JAVA_2024
 3. For the `ANGULAR-2024` frontend:
    - Open and navigate to the project folder.
    - Start the frontend development server using `ng serve`.
